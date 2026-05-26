@@ -1,0 +1,25 @@
+{
+  "name": "atividade-final-crud",
+  "version": "1.0.0",
+  "description": "Este projeto é uma API RESTful desenvolvida com Node.js, Express e SQLite, com funcionalidades de CRUD (Create, Read, Update, Delete).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romero-Svensk/atividade-final-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Romero-Svensk/atividade-final-crud/issues"
+  },
+  "homepage": "https://github.com/Romero-Svensk/atividade-final-crud#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
